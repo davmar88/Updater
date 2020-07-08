@@ -1,0 +1,12 @@
+/home/marietjie/Projects/Updater/Updater/bin/Debug/Updater.exe
+/home/marietjie/Projects/Updater/Updater/bin/Debug/Updater.pdb
+/home/marietjie/Projects/Updater/Updater/bin/Debug/Renci.SshNet.Async.dll
+/home/marietjie/Projects/Updater/Updater/bin/Debug/Renci.SshNet.dll
+/home/marietjie/Projects/Updater/Updater/bin/Debug/System.IO.Compression.ZipFile.dll
+/home/marietjie/Projects/Updater/Updater/bin/Debug/Renci.SshNet.xml
+/home/marietjie/Projects/Updater/Updater/bin/Debug/Renci.SshNet.Async.xml
+/home/marietjie/Projects/Updater/Updater/obj/x86/Debug/Updater.csproj.CoreCompileInputs.cache
+/home/marietjie/Projects/Updater/Updater/obj/x86/Debug/Updater.csproj.CopyComplete
+/home/marietjie/Projects/Updater/Updater/obj/x86/Debug/Updater.exe
+/home/marietjie/Projects/Updater/Updater/obj/x86/Debug/Updater.pdb
+/home/marietjie/Projects/Updater/Updater/obj/x86/Debug/Updater.csprojAssemblyReference.cache

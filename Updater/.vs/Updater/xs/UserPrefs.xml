@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2F2A73F9-E6E8-48F5-8CB4-6F3F831CFBCA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Updater/Program.cs">
+    <Files>
+      <File FileName="Updater/Program.cs" Line="64" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Updater" expanded="True">
+            <Node name="Updater" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Updater PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/home/marietjie/Projects/Updater/Updater/Program.cs" relfile="Updater/Program.cs" line="40" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Updater/Updater/Program.cs" relfile="Updater/Program.cs" line="65" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Updater/Updater/Program.cs" relfile="Updater/Program.cs" line="316" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Updater/Updater/Program.cs" relfile="Updater/Program.cs" line="319" column="1" />
+      <Breakpoint file="/home/marietjie/Projects/Updater/Updater/Program.cs" relfile="Updater/Program.cs" line="321" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
